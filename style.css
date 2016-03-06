@@ -89,7 +89,8 @@
  		flex-flow: row wrap;
 		border: 3px solid black; 
 		background: #bcc0be;
- 		justify-content: space-around; 
+ 		justify-content: space-around;
+ 		font-family: 'Metrophobic', Arial, serif; font-weight: 200;
 	}
 
 	img{
